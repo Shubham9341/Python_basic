@@ -1,0 +1,16 @@
+tup = (1,2,3,4,5,6)
+print(type(tup))
+tup1 =(2,3,4,5,6,)
+print(tup1)
+# TUPLE IS ALSO  JUST LIKE A STRING BUT IT IS IMMUTABLE THAT MEAN SIT CANNOT BE CHANGED WITH TH HELP OF ANY EXTERNAL SUPPORT 
+tup = ()
+print(tup)
+print(type(tup))
+# In tuple  we can also do TUPLE slicing
+
+tup7=(2,3,4,5,6,7,8)
+print(tup7[1:5])
+print(type(tup))
+tup=(2,3,4,5,6,7.8)
+tup.index(5)
+print(tup)

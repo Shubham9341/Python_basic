@@ -1,0 +1,4 @@
+var=input("enter your name " ,)
+var1=input("enter your age ",)
+print("My name is", var, "my age is ",var1)
+print(f"my name is {var}and my name is {var1}")

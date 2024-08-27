@@ -1,0 +1,32 @@
+
+
+
+a=0
+b=9
+print (a*b)
+print(a/b)
+print(a-b)
+print(a+b)
+
+a = int(input("enter the first :"))
+b= int(input("enter the second :"))
+sum=(a+b)
+print(sum)
+
+v=int(input("enter the side of a square:"))
+area=(4*v)
+print(area)
+
+
+o = input("enter the first floating number:")
+p = input ("enter the second number : ")
+sum = float(o)+float(p)
+average =sum/2
+print(average)
+
+
+d=90
+b=56
+d>=b
+
+
